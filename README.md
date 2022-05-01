@@ -1,17 +1,23 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+30th of April 2022.
 
 ### Project Title
-Replace the Project Title
+Explore U.S bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+This project helps gain meaningful insights into the bikeshare data of people living within Chicago, New York and Washington
 
 ### Files used
-Include the files used
+The datasets used for the analysis are stored in csv file format. you can find the original from the links below according to the individual city 
+chicago.csv = https://www.divvybikes.com/system-data
+new_york_city.csv = https://www.citibikenyc.com/system-data
+washington.csv = https://www.capitalbikeshare.com/system-data
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+#Got help from geeksforgeeks.org for research of functions
+#Got extra resources working with pandas from udemy course Understand data science in 10hours
+#Got extra help from colleagues to fix some bugs
+#Got massive help from the udacity practice questions. link here:https://classroom.udacity.com/nanodegrees/nd104/parts/cd0024/modules/1e4392d9-c759-42d1-8204-aaed736ae199/lessons/ls1727/concepts/07ed6bb5-ea2e-41e0-ae3c-f041905643a2
 
