@@ -23,3 +23,10 @@ washington.csv = https://www.capitalbikeshare.com/system-data
 
 ### Objectives
 In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+
+
+### Software Used
+Python
+VS code
+NumPy and Pandas library
+Terminal
