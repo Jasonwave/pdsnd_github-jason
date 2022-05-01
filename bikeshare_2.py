@@ -122,13 +122,13 @@ def time_stats(df):
     df['Start Time'] = pd.to_datetime(df['Start Time'])
 
     #initialize a variable to store the most frequent(mode) month data to be displayed
-    frequent_month = df['month'].mode()[0]
-    print("\n The Most common month is: {}".format(frequent_month).capitalize())
+    most_common_month = df['month'].mode()[0]
+    print("\n The Most common month is: {}".format(most_common_month).capitalize())
    
     # TO DO: display the most common day of week
     #initialize a variable to store the most frequent(mode) day of week data to be displayed
-    frequent_day = df['day_of_week'].mode()[0]
-    print("\n\nThe Most Common Day of the week is: {}\n".format(frequent_day).capitalize())
+    most_common_day = df['day_of_week'].mode()[0]
+    print("\n\nThe Most Common Day of the week is: {}\n".format(most_common_day).capitalize())
 
 
 
