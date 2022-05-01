@@ -21,3 +21,5 @@ washington.csv = https://www.capitalbikeshare.com/system-data
 #Got extra help from colleagues to fix some bugs
 #Got massive help from the udacity practice questions. link here:https://classroom.udacity.com/nanodegrees/nd104/parts/cd0024/modules/1e4392d9-c759-42d1-8204-aaed736ae199/lessons/ls1727/concepts/07ed6bb5-ea2e-41e0-ae3c-f041905643a2
 
+### Objectives
+In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
